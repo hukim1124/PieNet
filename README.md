@@ -1,7 +1,7 @@
 # PieNet: Personalized Image Enhancement
 
 <div align="center">
-  <img width="90%" alt="GleNet" src="./paper/fig2.png">
+  <img width="90%" alt="GleNet" src="./paper/overview.png">
 </div>
 
 <br/>
